@@ -9,7 +9,6 @@ Java Full Stack Developer skilled in building scalable web applications using Ja
 Passionate about clean code, problem-solving, and delivering end-to-end solutions from backend to UI. 🚀
 
 * 🌍  I'm based in Bangalore, Karnataka
-* 🧑‍💼  Founder at [Qyroxis](https://qyroxis.com/)
 * 🖥️  See my portfolio at [Portfolio Website](https://sahilsingh-portfolio.vercel.app/)
 * ✉️  You can contact me at [sahilcingh@gmail.com](mailto:sahilcingh@gmail.com)
 * 🧠  I'm currently learning Spring Boot
