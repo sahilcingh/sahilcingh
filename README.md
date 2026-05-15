@@ -32,25 +32,6 @@ Passionate about clean code, problem-solving, and delivering end-to-end solution
 
 <a href="https://www.github.com/sahilcingh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/sahilcingh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Badges
-
-**My GitHub Stats**
-
-<p align="center">
-  <a href="https://github.com/sahilcingh">
-    <img src="https://github-readme-stats.vercel.app/api?username=sahilcingh&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2" alt="GitHub stats" height="195" />
-  </a>
-  <a href="https://github.com/sahilcingh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcingh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="195" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sahilcingh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcingh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20Languages&v=2" alt="Top Languages" />
-  </a>
-</p>
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0; padding: 0;">
