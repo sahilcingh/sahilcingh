@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sahil Singh
+  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sahil Singh
 ====================================================================================================================================
 
 Java Full Stack Developer
@@ -36,11 +36,20 @@ Passionate about clean code, problem-solving, and delivering end-to-end solution
 
 **My GitHub Stats**
 
-[![sahilcingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilcingh&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/sahilcingh)
-[![sahilcingh's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilcingh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/sahilcingh)
+<p align="center">
+  <a href="https://github.com/sahilcingh">
+    <img src="https://github-readme-stats.vercel.app/api?username=sahilcingh&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=86400" alt="sahilcingh's GitHub stats" height="195" />
+  </a>
+  <a href="https://github.com/sahilcingh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcingh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="195" />
+  </a>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcingh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20Languages)](https://github.com/sahilcingh)
-
+<p align="center">
+  <a href="https://github.com/sahilcingh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcingh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20Languages&cache_seconds=86400" alt="Top Languages" />
+  </a>
+</p>
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0; padding: 0;">
