@@ -98,12 +98,11 @@ Autonomous AI agent that audits websites for SEO issues and generates reports.
 ## Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahilcingh&show_icons=true&hide_border=true&theme=radical&bg_color=141414&title_color=E8A33D&icon_color=E8A33D&text_color=CFCFCF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcingh&layout=compact&hide_border=true&theme=radical&bg_color=141414&title_color=E8A33D&text_color=CFCFCF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcingh&hide_border=true&background=141414&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcingh&hide_border=true&background=141414&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" />
+<img src="https://komarev.com/ghpvc/?username=sahilcingh&label=Profile%20Views&color=E8A33D&style=flat-square" alt="Profile Views" />
 </div>
 
 <br>
