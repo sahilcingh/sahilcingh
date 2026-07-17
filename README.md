@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,12&height=200&section=header&text=Sahil%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=From%20backend%20basics%20to%20full%20stack%20builds%20%F0%9F%9A%80&descAlignY=60&descSize=20)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,12&height=250&section=header&text=Sahil%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=From%20backend%20basics%20to%20full%20stack%20builds%20%F0%9F%9A%80&descAlignY=60&descSize=18)
 
 ```
 Code. Debug. Deploy. Repeat.
@@ -93,28 +93,34 @@ Current Goal:
 
 ### 🚀 Featured Project
 
-<!-- Swap in your strongest repo — title, description, link, and features below -->
+#### 🔍 SEO-Agent — an SEO auditor that fixes what it finds, not just reports it
 
-#### 📦 Project Name — one-line pitch
-
-> Short paragraph describing what the project does, the core problem it solves, and any notable technical decisions.
+> Most small businesses have no idea their site has SEO issues, and can't afford a $2k+ agency audit or $200-400/hr developer time to fix it. Every existing SEO tool just hands you a report — none of them actually fix anything. SEO-Agent closes that loop: paste a URL, get a scored audit in ~45s, and let the agent generate and deploy the actual code fixes itself.
 
 **Repository**
 
-[https://github.com/sahilcingh/your-repo](https://github.com/sahilcingh/your-repo)
+[https://github.com/sahilcingh/seo-agent](https://github.com/sahilcingh/seo-agent)
 
 **Features**
 
-- Feature one, described briefly
-- Feature two, described briefly
-- Feature three, described briefly
+- 🕷️ **Full site audit** — crawls the page, checks Core Web Vitals/PageSpeed, robots.txt & sitemap, structured data/schema markup, and benchmarks against competitors, producing a deterministic 0–100 score with a letter grade (no LLM in the scoring path, so results are consistent and repeatable)
+- 🤖 **AI-powered fixes** — an LLM (Groq) synthesizes the audit into plain-language explanations, then a fix agent generates the actual corrected code (meta tags, canonical URLs, schema, etc.)
+- 🚀 **Auto-deploy** — pushes the generated fixes straight to the live site/repo (GitHub + SSH integration) instead of just handing you a diff to apply yourself
+- 📊 **Extras** — keyword research, rank tracking over time, backlink checker, and downloadable PDF audit reports
 
 **Built With**
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square)
-![React](https://img.shields.io/badge/-React-000000?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq%20(LLaMA)-F55036?style=flat-square)
+![PyGithub](https://img.shields.io/badge/-PyGithub-181717?style=flat-square&logo=github&logoColor=white)
+![Paramiko](https://img.shields.io/badge/-Paramiko-000000?style=flat-square)
+![ReportLab](https://img.shields.io/badge/-ReportLab-red?style=flat-square)
+![React](https://img.shields.io/badge/-React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -136,7 +142,7 @@ Current Goal:
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=sahilcingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -173,9 +179,9 @@ Current Goal:
 
 | Project | Status |
 |---|---|
+| SEO-Agent | ✅ Completed |
 | Portfolio Website | ✅ Completed |
 | _Your project name_ | 🔄 In Progress |
-| _Your project name_ | 📋 Planned |
 | _Your project name_ | 📋 Planned |
 
 ---
