@@ -1,191 +1,113 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,12&height=200&section=header&text=Sahil%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=From%20backend%20basics%20to%20full%20stack%20builds%20%F0%9F%9A%80&descAlignY=60&descSize=20)
+# Sahil Singh
 
-```
-Build. Ship. Repeat.
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=E8A33D&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Java+%2F+Spring+Boot+%2F+React;Fresher+%E2%80%94+building+production-grade+systems;Currently+shipping%3A+ARIA" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-singh-941067211)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilcingh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://sahilsingh-portfolio.vercel.app/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sahilcingh.hashnode.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-141414?style=flat-square&logo=vercel&logoColor=E8A33D)](https://sahilsingh-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=E8A33D)](https://www.linkedin.com/in/sahil-singh-941067211)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-141414?style=flat-square&logo=leetcode&logoColor=E8A33D)](https://leetcode.com/u/syroxiq/)
+[![Mail](https://img.shields.io/badge/-Email-141414?style=flat-square&logo=gmail&logoColor=E8A33D)](mailto:sahilcingh@gmail.com)
 
 </div>
 
----
+<br>
 
-### 🧑‍💻 About Me
+## `whoami`
 
-```yaml
-Name: Sahil Singh
-Role: Java Full Stack Developer
-Location: Bangalore, Karnataka
-Stack: Java, Spring Boot, REST APIs, React, PostgreSQL
-Currently: Deepening Spring Boot + cloud deployment skills
-Focus:
-  - Backend architecture & REST API design
-  - Clean, maintainable code
-  - End-to-end feature delivery (backend to UI)
-```
+Fresher targeting **Full Stack Developer / SDE** roles. I don't just build CRUD demos — most of my projects run real infrastructure underneath: job queues, vector databases, multi-surface clients, LLM pipelines. I'd rather ship something that behaves like production software than something that just looks good in a screenshot.
 
-### 🚀 A Little About Me
+<br>
 
-- 💼 Full stack developer building scalable web apps with Java and Spring Boot
-- 🌐 Comfortable across the stack — from REST APIs to React/Next.js frontends
-- 🧩 Enjoy solving real problems end-to-end, not just shipping features
-- 📚 Currently deepening Spring Boot, cloud deployment, and system design
-- 🎯 Open to backend/full-stack roles and interesting collaborations
+## Stack
 
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" width="40" height="40"/>
-</p>
-
-**Frontend & Styling**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="40" height="40"/>
-</p>
-
-**Database, Cloud & Tools**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Azure" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="Bash" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="40" height="40"/>
-</p>
-
-**Mobile**
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-</p>
-
-**Core Skills**
-
-![Java](https://img.shields.io/badge/-JAVA-informational?style=for-the-badge&color=1E3A8A)
-![Spring Boot](https://img.shields.io/badge/-SPRING%20BOOT-informational?style=for-the-badge&color=15803D)
-![REST APIs](https://img.shields.io/badge/-REST%20APIS-informational?style=for-the-badge&color=B45309)
-![System Design](https://img.shields.io/badge/-SYSTEM%20DESIGN-informational?style=for-the-badge&color=6D28D9)
-![Full Stack](https://img.shields.io/badge/-FULL%20STACK-informational?style=for-the-badge&color=BE123C)
-
----
-
-### 🌟 Featured Project
-
-<!-- Swap in your strongest repo — name, description, link, and features below -->
-
-#### 📦 Project Name — One-line pitch
-
-> Short paragraph describing what the project does, the core problem it solves, and any notable technical decisions (e.g. architecture, performance, or integration choices).
-
-**Repository:** [github.com/sahilcingh/your-repo](https://github.com/sahilcingh/your-repo)
-
-**Features**
-- Feature one, described briefly
-- Feature two, described briefly
-- Feature three, described briefly
-
-**Built With**
-
-![Java](https://img.shields.io/badge/-Java-000000?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square)
-![React](https://img.shields.io/badge/-React-000000?style=flat-square)
-
----
-
-### 🌱 Currently Learning
-
-- Spring Cloud & Microservices
-- Docker & Kubernetes basics
-- System Design fundamentals
-- Cloud deployment on Azure
-- Advanced React patterns
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilcingh&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcingh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilcingh&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🎯 2026 Goals
-
-- [ ] Ship 3+ production-grade full stack projects
-- [ ] Get comfortable with system design interviews
-- [ ] Contribute to an open-source Java/Spring project
-- [ ] Deploy a project end-to-end on Azure
-- [ ] Land a full stack developer role
-- [ ] Maintain a consistent GitHub contribution streak
-
----
-
-### 🗂️ Project Roadmap
-
-| Project | Status |
+| Layer | Tools |
 |---|---|
-| Portfolio Website | ✅ Completed |
-| _Your project name_ | 🔄 In Progress |
-| _Your project name_ | 📋 Planned |
-| _Your project name_ | 📋 Planned |
+| **Languages** | Java · Python · TypeScript · JavaScript |
+| **Backend** | Spring Boot · FastAPI · Node.js / Express |
+| **Frontend** | React · Next.js · Flutter · Tauri |
+| **Data** | PostgreSQL · MSSQL · Vector DBs |
+| **Infra** | Docker · Celery/Redis · Azure |
+| **AI/LLM** | Groq (LLaMA 3.x) · agentic pipelines · RAG |
 
----
+<br>
 
-### 👀 Profile Views
+## Projects
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sahilcingh&color=6D28D9&style=for-the-badge" alt="Profile Views" />
-</p>
+<details open>
+<summary><b>🧠 ARIA — cloud-based, voice-first personal AI assistant</b> <sub>(pre-GitHub, in active build)</sub></summary>
+<br>
 
----
+Jarvis for real life — one cloud brain, three clients: Next.js web, Flutter mobile, Tauri desktop overlay.
 
-### 💬 Developer Quote
+- Persistent long-term memory via vector database — remembers people, preferences, past conversations
+- Executes real actions (sends emails, creates calendar events, runs shell commands), not just Q&A
+- Proactive daily voice briefing — reads email/calendar/news and synthesizes it aloud every morning
+- Multi-surface architecture sharing a single backend across web, mobile, and desktop
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+</details>
 
----
+<details>
+<summary><b>💳 Transaction Processing Pipeline</b> — <a href="https://github.com/sahilcingh/Alemeno-Assignment">Alemeno-Assignment</a></summary>
+<br>
+
+Ingests messy financial CSVs and uses an LLM to classify transactions and flag anomalies.
+
+- FastAPI + Celery/Redis async job queue with retry support
+- PostgreSQL for jobs, cleaned transactions, and summaries
+- Groq (LLaMA 3.1 8B) for transaction classification and narrative generation
+- Fully Dockerized — `docker compose up --build` runs the whole stack
+
+</details>
+
+<details>
+<summary><b>🏥 Clinix / Patient Record App v2</b> — <a href="https://github.com/sahilcingh/Patient-record-app-v2">Patient-record-app-v2</a> · <a href="https://github.com/sahilcingh/Clinix">Clinix</a></summary>
+<br>
+
+Clinic patient-record management system with a companion mobile app.
+
+- JWT-authenticated REST API (Node/Express + MSSQL) with patient search, visit history, per-visit CRUD
+- Dashboard stats and profile endpoints for clinic staff
+- Flutter mobile companion for on-the-go access
+
+</details>
+
+<details>
+<summary><b>🔍 SEO-Agent</b> — <a href="https://github.com/sahilcingh/SEO-Agent">SEO-Agent</a></summary>
+<br>
+
+Autonomous AI agent that audits websites for SEO issues and generates reports.
+
+- FastAPI backend, rate-limited endpoints, Groq LLM for analysis
+- Site scraping/rendering via BeautifulSoup + Playwright (handles JS-rendered pages)
+- PDF report generation (reportlab) and GitHub integration (PyGithub)
+- React + TypeScript + Tailwind frontend
+
+</details>
+
+<br>
+
+## This year
+
+- 🎯 Convert the Deutsche Bank Technology Apprenticeship into a full-time offer
+- 📚 Go deep on distributed systems fundamentals — Kafka, system design at scale, working in large established codebases under strict review
+- 🚀 Push ARIA to GitHub and get it running reliably outside local dev
+
+<br>
+
+## Activity
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sahilcingh&show_icons=true&hide_border=true&theme=radical&bg_color=141414&title_color=E8A33D&icon_color=E8A33D&text_color=CFCFCF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcingh&layout=compact&hide_border=true&theme=radical&bg_color=141414&title_color=E8A33D&text_color=CFCFCF" height="165"/>
+</div>
 
-### 🙌 Thanks for Visiting!
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcingh&hide_border=true&background=141414&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" />
+</div>
 
-*"Consistency beats intensity. Every line of code brings me one step closer to my goals."*
+<br>
 
+<div align="center">
+<sub>Building in public, one commit at a time.</sub>
 </div>
