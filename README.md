@@ -105,7 +105,7 @@ Current Goal:
 
 - 🕷️ **Full site audit** - crawls the page, checks Core Web Vitals/PageSpeed, robots.txt & sitemap, structured data/schema markup, and benchmarks against competitors, producing a deterministic 0–100 score with a letter grade (no LLM in the scoring path, so results are consistent and repeatable)
 - 🤖 **AI-powered fixes** - an LLM (Groq) synthesizes the audit into plain-language explanations, then a fix agent generates the actual corrected code (meta tags, canonical URLs, schema, etc.)
-- 🚀 **Auto-deploy** = pushes the generated fixes straight to the live site/repo (GitHub + SSH integration) instead of just handing you a diff to apply yourself
+- 🚀 **Auto-deploy** - pushes the generated fixes straight to the live site/repo (GitHub + SSH integration) instead of just handing you a diff to apply yourself
 - 📊 **Extras** - keyword research, rank tracking over time, backlink checker, and downloadable PDF audit reports
 
 **Built With**
