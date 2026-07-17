@@ -1,112 +1,204 @@
 <div align="center">
 
-# Sahil Singh
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,12&height=200&section=header&text=Sahil%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=From%20backend%20basics%20to%20full%20stack%20builds%20%F0%9F%9A%80&descAlignY=60&descSize=20)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=E8A33D&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Java+%2F+Spring+Boot+%2F+React;Building+production-grade+systems%2C+not+demos" alt="Typing SVG" />
+```
+Code. Debug. Deploy. Repeat.
+```
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-141414?style=flat-square&logo=vercel&logoColor=E8A33D)](https://sahilsingh-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=E8A33D)](https://www.linkedin.com/in/sahil-singh-941067211)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-141414?style=flat-square&logo=leetcode&logoColor=E8A33D)](https://leetcode.com/u/syroxiq/)
-[![Mail](https://img.shields.io/badge/-Email-141414?style=flat-square&logo=gmail&logoColor=E8A33D)](mailto:sahilcingh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-singh-941067211)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilcingh@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/syroxiq/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/syroxiq)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://sahilsingh-portfolio.vercel.app/)
 
 </div>
 
-<br>
+---
 
-## `whoami`
+### 🧑‍💻 About Me
 
-Fresher targeting **Full Stack Developer / SDE** roles. I don't just build CRUD demos — most of my projects run real infrastructure underneath: job queues, vector databases, multi-surface clients, LLM pipelines. I'd rather ship something that behaves like production software than something that just looks good in a screenshot.
+```yaml
+Name: Sahil Singh
+Role: Java Full Stack Developer
+Location: Bangalore, Karnataka
 
-<br>
+Languages:
+  - Java
+  - JavaScript
+  - SQL
 
-## Stack
+Focus:
+  - Backend architecture & REST API design
+  - Full stack web development
+  - Clean, maintainable code
 
-| Layer | Tools |
+Current Goal:
+  Landing a Full Stack Developer role
+```
+
+### 🚀 A Little About Me
+
+- 💼 Java Full Stack Developer building scalable web applications end-to-end.
+- 🌐 Comfortable across the stack — Spring Boot APIs to React/Next.js frontends.
+- 🧠 Currently deepening Spring Boot, cloud deployment, and system design.
+- 🛠️ Exploring Docker, cloud platforms, and backend performance tuning.
+- 🎯 Preparing for full stack developer and backend engineering roles.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
+</p>
+
+**Frameworks & Libraries**
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="36" height="36"/>
+</p>
+
+**Tools**
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="36" height="36" style="background:white;border-radius:6px;padding:2px"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Azure" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="36" height="36"/>
+</p>
+
+**Core Skills**
+
+![Backend Development](https://img.shields.io/badge/BACKEND%20DEVELOPMENT-1E3A8A?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIS-B45309?style=for-the-badge)
+![System Design](https://img.shields.io/badge/SYSTEM%20DESIGN-6D28D9?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/FULL%20STACK-BE123C?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/PROBLEM%20SOLVING-15803D?style=for-the-badge)
+
+---
+
+### 🚀 Featured Project
+
+<!-- Swap in your strongest repo — title, description, link, and features below -->
+
+#### 📦 Project Name — one-line pitch
+
+> Short paragraph describing what the project does, the core problem it solves, and any notable technical decisions.
+
+**Repository**
+
+[https://github.com/sahilcingh/your-repo](https://github.com/sahilcingh/your-repo)
+
+**Features**
+
+- Feature one, described briefly
+- Feature two, described briefly
+- Feature three, described briefly
+
+**Built With**
+
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square)
+
+---
+
+### 🌱 Currently Learning
+
+- Spring Cloud & Microservices
+- Docker & Kubernetes basics
+- System Design fundamentals
+- Cloud deployment on Azure
+- Advanced React patterns
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilcingh&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcingh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilcingh&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 💻 LeetCode
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/syroxiq?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🎯 2026 Goals
+
+- [ ] Solve 300+ LeetCode problems
+- [ ] Become active on Codeforces
+- [ ] Ship 3+ production-grade full stack projects
+- [ ] Get comfortable with system design interviews
+- [ ] Deploy a project end-to-end on Azure
+- [ ] Secure a Full Stack Developer role
+- [ ] Maintain a daily GitHub streak
+
+---
+
+### 🗂️ Project Roadmap
+
+| Project | Status |
 |---|---|
-| **Languages** | Java · Python · TypeScript · JavaScript |
-| **Backend** | Spring Boot · FastAPI · Node.js / Express |
-| **Frontend** | React · Next.js · Flutter · Tauri |
-| **Data** | PostgreSQL · MSSQL · Vector DBs |
-| **Infra** | Docker · Celery/Redis · Azure |
-| **AI/LLM** | Groq (LLaMA 3.x) · agentic pipelines · RAG |
+| Portfolio Website | ✅ Completed |
+| _Your project name_ | 🔄 In Progress |
+| _Your project name_ | 📋 Planned |
+| _Your project name_ | 📋 Planned |
 
-<br>
+---
 
-## Projects
+### 👀 Profile Views
 
-<details open>
-<summary><b>💳 Transaction Processing Pipeline</b> — <a href="https://github.com/sahilcingh/Alemeno-Assignment">Alemeno-Assignment</a></summary>
-<br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sahilcingh&color=6D28D9&style=for-the-badge" alt="Profile Views" />
+</p>
 
-Ingests messy financial CSVs and uses an LLM to classify transactions and flag anomalies.
+---
 
-- FastAPI + Celery/Redis async job queue with retry support
-- PostgreSQL for jobs, cleaned transactions, and summaries
-- Groq (LLaMA 3.1 8B) for transaction classification and narrative generation
-- Fully Dockerized — `docker compose up --build` runs the whole stack
+### 💬 Developer Quote
 
-</details>
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
 
-<details>
-<summary><b>🏥 Clinix / Patient Record App v2</b> — <a href="https://github.com/sahilcingh/Patient-record-app-v2">Patient-record-app-v2</a> · <a href="https://github.com/sahilcingh/Clinix">Clinix</a></summary>
-<br>
-
-Clinic patient-record management system with a companion mobile app.
-
-- JWT-authenticated REST API (Node/Express + MSSQL) with patient search, visit history, per-visit CRUD
-- Dashboard stats and profile endpoints for clinic staff
-- Flutter mobile companion for on-the-go access
-
-</details>
-
-<details>
-<summary><b>🔍 SEO-Agent</b> — <a href="https://github.com/sahilcingh/SEO-Agent">SEO-Agent</a></summary>
-<br>
-
-Autonomous AI agent that audits websites for SEO issues and generates reports.
-
-- FastAPI backend, rate-limited endpoints, Groq LLM for analysis
-- Site scraping/rendering via BeautifulSoup + Playwright (handles JS-rendered pages)
-- PDF report generation (reportlab) and GitHub integration (PyGithub)
-- React + TypeScript + Tailwind frontend
-
-</details>
-
-<details>
-<summary><b>🧠 ARIA — cloud-based, voice-first personal AI assistant</b> <sub>(building now, pre-GitHub)</sub></summary>
-<br>
-
-Jarvis for real life — one cloud brain, three clients: Next.js web, Flutter mobile, Tauri desktop overlay.
-
-- Persistent long-term memory via vector database — remembers people, preferences, past conversations
-- Executes real actions (sends emails, creates calendar events, runs shell commands), not just Q&A
-- Proactive daily voice briefing — reads email/calendar/news and synthesizes it aloud every morning
-- Multi-surface architecture sharing a single backend across web, mobile, and desktop
-
-</details>
-
-<br>
-
-## This year
-
-- 📚 Go deep on distributed systems fundamentals — Kafka, system design at scale, working in large established codebases under strict review
-- 🚀 Push ARIA to GitHub and get it running reliably outside local dev
-
-<br>
-
-## Activity
+---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahilcingh&show_icons=true&hide_border=true&bg_color=141414&title_color=E8A33D&icon_color=E8A33D&text_color=ffffff" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilcingh&hide_border=true&background=141414&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" height="165" />
-</div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sahilcingh&label=Profile%20Views&color=E8A33D&style=flat-square" alt="Profile Views" />
-</div>
+### 🙌 Thanks for Visiting!
 
-<br>
+*"Consistency beats intensity. Every line of code brings me one step closer to my goals."*
 
-<div align="center">
-<sub>Building in public, one commit at a time.</sub>
 </div>
