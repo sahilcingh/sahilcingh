@@ -40,7 +40,7 @@ Current Goal:
 ### 🚀 A Little About Me
 
 - 💼 Java Full Stack Developer building scalable web applications end-to-end.
-- 🌐 Comfortable across the stack — Spring Boot APIs to React/Next.js frontends.
+- 🌐 Comfortable across the stack -> Spring Boot APIs to React/Next.js frontends.
 - 🧠 Currently deepening Spring Boot, cloud deployment, and system design.
 - 🛠️ Exploring Docker, cloud platforms, and backend performance tuning.
 - 🎯 Preparing for full stack developer and backend engineering roles.
@@ -93,9 +93,9 @@ Current Goal:
 
 ### 🚀 Featured Project
 
-#### 🔍 SEO-Agent — an SEO auditor that fixes what it finds, not just reports it
+#### 🔍 SEO-Agent -> an SEO auditor that fixes what it finds, not just reports it
 
-> Most small businesses have no idea their site has SEO issues, and can't afford a $2k+ agency audit or $200-400/hr developer time to fix it. Every existing SEO tool just hands you a report — none of them actually fix anything. SEO-Agent closes that loop: paste a URL, get a scored audit in ~45s, and let the agent generate and deploy the actual code fixes itself.
+> Most small businesses have no idea their site has SEO issues, and can't afford a $2k+ agency audit or $200-400/hr developer time to fix it. Every existing SEO tool just hands you a report none of them actually fix anything. SEO-Agent closes that loop: paste a URL, get a scored audit in ~45s, and let the agent generate and deploy the actual code fixes itself.
 
 **Repository**
 
@@ -103,10 +103,10 @@ Current Goal:
 
 **Features**
 
-- 🕷️ **Full site audit** — crawls the page, checks Core Web Vitals/PageSpeed, robots.txt & sitemap, structured data/schema markup, and benchmarks against competitors, producing a deterministic 0–100 score with a letter grade (no LLM in the scoring path, so results are consistent and repeatable)
-- 🤖 **AI-powered fixes** — an LLM (Groq) synthesizes the audit into plain-language explanations, then a fix agent generates the actual corrected code (meta tags, canonical URLs, schema, etc.)
-- 🚀 **Auto-deploy** — pushes the generated fixes straight to the live site/repo (GitHub + SSH integration) instead of just handing you a diff to apply yourself
-- 📊 **Extras** — keyword research, rank tracking over time, backlink checker, and downloadable PDF audit reports
+- 🕷️ **Full site audit** - crawls the page, checks Core Web Vitals/PageSpeed, robots.txt & sitemap, structured data/schema markup, and benchmarks against competitors, producing a deterministic 0–100 score with a letter grade (no LLM in the scoring path, so results are consistent and repeatable)
+- 🤖 **AI-powered fixes** - an LLM (Groq) synthesizes the audit into plain-language explanations, then a fix agent generates the actual corrected code (meta tags, canonical URLs, schema, etc.)
+- 🚀 **Auto-deploy** = pushes the generated fixes straight to the live site/repo (GitHub + SSH integration) instead of just handing you a diff to apply yourself
+- 📊 **Extras** - keyword research, rank tracking over time, backlink checker, and downloadable PDF audit reports
 
 **Built With**
 
