@@ -167,7 +167,7 @@ Current Goal:
 
 - [ ] Solve 300+ LeetCode problems
 - [ ] Become active on Codeforces
-- [✅] Ship 3+ production-grade full stack projects
+- [X] Ship 3+ production-grade full stack projects
 - [ ] Get comfortable with system design interviews
 - [ ] Deploy a project end-to-end on Azure
 - [ ] Secure a Full Stack Developer role
