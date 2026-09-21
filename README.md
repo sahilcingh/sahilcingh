@@ -170,8 +170,8 @@ Current Goal:
 - [X] Ship 3+ production-grade full stack projects
 - [ ] Get comfortable with system design interviews
 - [ ] Deploy a project end-to-end on Azure
-- [ ] Secure a Full Stack Developer role
-- [ ] Maintain a daily GitHub streak
+- [X] Secure a Full Stack Developer role
+- [X] Maintain a daily GitHub streak
 
 ---
 
